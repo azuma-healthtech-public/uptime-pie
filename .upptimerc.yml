@@ -37,6 +37,6 @@ status-website:
 
 
 workflowSchedule:
-  uptime: "0 * * * *"
+  uptime: "30 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
