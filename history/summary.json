@@ -58,9 +58,9 @@
     "url": "https://pie.azuma-health.tech/health/doa-acl",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-doa-permissions-and-access-control",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 5774,
     "timeMonth": 5119,
     "timeYear": 4508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-04": 0
+    }
   },
   {
     "name": "azuma doa: OAuth 2.0 and OpenID Connect Provider",
