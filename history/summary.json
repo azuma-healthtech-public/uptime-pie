@@ -58,10 +58,10 @@
     "url": "https://pie.azuma-health.tech/health/doa-acl",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-doa-permissions-and-access-control",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 4535,
@@ -70,6 +70,7 @@
     "timeMonth": 5065,
     "timeYear": 4535,
     "dailyMinutesDown": {
+      "2023-07-13": 1,
       "2023-07-04": 53
     }
   },
@@ -132,19 +133,19 @@
     "url": "https://pie.azuma-health.tech/health/doa-mailing",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-doa-mailing-service",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "95.61%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.94%",
-    "time": 6772,
-    "timeDay": 8710,
-    "timeWeek": 7253,
-    "timeMonth": 6983,
-    "timeYear": 6772,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.92%",
+    "time": 6739,
+    "timeDay": 6320,
+    "timeWeek": 6618,
+    "timeMonth": 6818,
+    "timeYear": 6739,
     "dailyMinutesDown": {
-      "2023-07-13": 63,
+      "2023-07-13": 107,
       "2023-07-04": 63
     }
   }
