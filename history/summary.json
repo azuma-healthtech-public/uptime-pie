@@ -133,14 +133,14 @@
     "url": "https://pie.azuma-health.tech/health/doa-mailing",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-doa-mailing-service",
-    "status": "up",
-    "uptime": "97.04%",
-    "uptimeDay": "51.16%",
-    "uptimeWeek": "63.46%",
+    "status": "down",
+    "uptime": "97.07%",
+    "uptimeDay": "56.38%",
+    "uptimeWeek": "64.21%",
     "uptimeMonth": "80.32%",
-    "uptimeYear": "97.04%",
+    "uptimeYear": "97.07%",
     "time": 9814,
-    "timeDay": 14924,
+    "timeDay": 16109,
     "timeWeek": 15870,
     "timeMonth": 13660,
     "timeYear": 9814,
@@ -166,7 +166,7 @@
       "2023-08-25": 420,
       "2023-08-24": 340,
       "2023-07-19": 237,
-      "2023-07-17": 277
+      "2023-07-17": 180
     }
   }
 ]
