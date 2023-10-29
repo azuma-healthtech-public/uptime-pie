@@ -7,6 +7,10 @@ sites:
     url: https://pie.azuma-health.tech/health/doa-gateway
   - name: "azuma: Zero Trust Gateway"
     url: https://pie.azuma-health.tech/health/gateway
+  - name: "azuma: Mimoto (REF)"
+    url: https://pie.azuma-health.tech/health/mimoto-auth-ref
+  - name: "azuma: Mimoto (TEST)"
+    url: https://pie.azuma-health.tech/health/mimoto-auth-test
   - name: "azuma doa: Identity Service"
     url: https://pie.azuma-health.tech/health/doa-idp
   - name: "azuma doa: Permissions & Access Control"
