@@ -13,8 +13,6 @@ sites:
     url: https://pie.azuma-health.tech/health/mimoto-auth-test
   - name: "azuma doa: Identity Service"
     url: https://pie.azuma-health.tech/health/doa-idp
-  - name: "azuma doa: Permissions & Access Control"
-    url: https://pie.azuma-health.tech/health/doa-acl
   - name: "azuma doa: OAuth 2.0 and OpenID Connect Provider"
     url: https://pie.azuma-health.tech/health/doa-oidc
   - name: "azuma doa: Tenant & Organization Service"
