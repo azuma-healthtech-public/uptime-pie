@@ -4,10 +4,10 @@
     "url": "https://pie.azuma-health.tech/health/doa-gateway",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-federated-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 530,
@@ -15,17 +15,19 @@
     "timeWeek": 900,
     "timeMonth": 813,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 2
+    }
   },
   {
     "name": "azuma: Zero Trust Gateway",
     "url": "https://pie.azuma-health.tech/health/gateway",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-zero-trust-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
@@ -33,17 +35,19 @@
     "timeWeek": 124,
     "timeMonth": 117,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 2
+    }
   },
   {
     "name": "azuma mimoto: Authorization Service (ref)",
     "url": "https://pie.azuma-health.tech/health/mimoto-auth-ref",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-mimoto-authorization-service-ref",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
@@ -51,17 +55,19 @@
     "timeWeek": 143,
     "timeMonth": 133,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 1
+    }
   },
   {
     "name": "azuma mimoto: Authorization Service (test)",
     "url": "https://pie.azuma-health.tech/health/mimoto-auth-test",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-mimoto-authorization-service-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
@@ -69,7 +75,9 @@
     "timeWeek": 140,
     "timeMonth": 131,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 1
+    }
   },
   {
     "name": "azuma doa: Identity Service",
