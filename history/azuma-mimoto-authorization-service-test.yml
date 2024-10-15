@@ -1,7 +1,7 @@
 url: https://pie.azuma-health.tech/health/mimoto-auth-test
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-15T13:00:29.561Z
+status: up
+code: 200
+responseTime: 115
+lastUpdated: 2024-10-15T13:39:59.657Z
 startTime: 2023-10-29T07:41:32.497Z
 generator: Upptime <https://github.com/upptime/upptime>
