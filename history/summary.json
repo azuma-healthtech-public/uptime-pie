@@ -4,9 +4,9 @@
     "url": "https://pie.azuma-health.tech/health/doa-gateway",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-federated-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 999,
     "timeYear": 554,
     "dailyMinutesDown": {
+      "2024-10-17": 1,
       "2024-10-15": 41,
       "2024-10-09": 42
     }
@@ -25,9 +26,9 @@
     "url": "https://pie.azuma-health.tech/health/gateway",
     "icon": "https://icons.duckduckgo.com/ip3/pie.azuma-health.tech.ico",
     "slug": "azuma-zero-trust-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
@@ -37,6 +38,7 @@
     "timeMonth": 119,
     "timeYear": 102,
     "dailyMinutesDown": {
+      "2024-10-17": 0,
       "2024-10-15": 41,
       "2024-10-09": 42
     }
