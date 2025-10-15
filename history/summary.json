@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 769,
-    "timeDay": 650,
-    "timeWeek": 687,
+    "timeDay": 669,
+    "timeWeek": 658,
     "timeMonth": 724,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2024-10-17": 42,
-      "2024-10-15": 41
+      "2024-10-17": 42
     }
   },
   {
@@ -32,13 +31,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 117,
-    "timeDay": 92,
-    "timeWeek": 108,
+    "timeDay": 112,
+    "timeWeek": 104,
     "timeMonth": 111,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-10-17": 41,
-      "2024-10-15": 41
+      "2024-10-17": 41
     }
   },
   {
@@ -53,13 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 97,
-    "timeWeek": 114,
-    "timeMonth": 119,
+    "timeDay": 124,
+    "timeWeek": 111,
+    "timeMonth": 120,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2024-10-15": 40
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma mimoto: Authorization Service (test)",
@@ -73,13 +69,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 103,
-    "timeWeek": 116,
-    "timeMonth": 119,
+    "timeDay": 119,
+    "timeWeek": 112,
+    "timeMonth": 120,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2024-10-15": 40
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma doa: Identity Service",
@@ -93,13 +87,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 100,
-    "timeWeek": 117,
-    "timeMonth": 120,
+    "timeDay": 125,
+    "timeWeek": 114,
+    "timeMonth": 121,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2024-10-15": 39
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma doa: OAuth 2.0 and OpenID Connect Provider",
@@ -113,13 +105,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 105,
-    "timeWeek": 118,
-    "timeMonth": 119,
+    "timeDay": 126,
+    "timeWeek": 114,
+    "timeMonth": 120,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2024-10-15": 39
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma doa: Tenant & Organization Service",
@@ -133,13 +123,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 93,
-    "timeWeek": 109,
-    "timeMonth": 112,
+    "timeDay": 112,
+    "timeWeek": 105,
+    "timeMonth": 113,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2024-10-15": 38
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "azuma doa: Administration Service",
@@ -153,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 101,
-    "timeWeek": 115,
-    "timeMonth": 120,
+    "timeDay": 124,
+    "timeWeek": 112,
+    "timeMonth": 121,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -170,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 5433,
-    "timeDay": 102,
-    "timeWeek": 114,
+    "time": 5419,
+    "timeDay": 120,
+    "timeWeek": 111,
     "timeMonth": 121,
-    "timeYear": 4786,
+    "timeYear": 4727,
     "dailyMinutesDown": {
       "2025-04-29": 57
     }
